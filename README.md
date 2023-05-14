@@ -64,7 +64,13 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![GitHub Logo](simpleservr.png)
+
+![image](https://github.com/Gopikakarthik/webserver/assets/121235427/be3d89be-37d4-4c4e-87e4-18d52dd67596)
+
+SERVER SIDE OUTPUT:
+
+![image](https://github.com/Gopikakarthik/webserver/assets/121235427/edc32600-2a8a-4b02-89ac-56c165ddad01)
+
 
 ## RESULT:
 The program is executed succesfully
